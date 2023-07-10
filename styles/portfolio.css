@@ -6,6 +6,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 nav> ul{
     display: flex;
@@ -39,4 +40,12 @@ nav .nav-title{
  padding:18px 35px;
 
 
+}
+/* header related styles */
+header {
+    background: #FFF8F3;
+}
+
+.banner{
+    
 }
